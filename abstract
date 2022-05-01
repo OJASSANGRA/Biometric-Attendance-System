@@ -1,0 +1,44 @@
+In industrial and domestic applications attendance registering is important at each and every
+moment. Many face a lot of problems due to lack of proper attendance monitoring system. In this
+project we use Fingerprint Sensor (R307) which senses the Fingerprint of a particular person; a
+buzzer and Led gets activated whenever a person places his finger on the sensor. Then the
+fingerprint is stored in cloud with id no. Many people can store their fingerprints. Then next time
+any person puts their finger on the sensor it checks there are any matching fingerprints or not. If
+his fingerprint matches with any of the stored fingerprints then the LCD display shows which
+person it is and the time & date of checking.
+In this model, all the fingerprints are stored each and every time someone places his finger. User
+can connect the system wirelessly with the cloud and monitor the process. When the app is
+running on the computer, data sent by R307 fingerprint module is received and stored on the
+cloud and displayed in serial monitor and 16*2 LCD display module.
+This study has mainly focused to develop IOT based biometric attendance system, that is able to
+keep record of attendance and count the data for daily purpose. In this project we are going to
+design Fingerprint Sensor Based Biometric Attendance System using Arduino. Simply we will
+be interfacing fingerprint sensor with Arduino, LCD Display & RTC Module to design the
+desired project. In this project, we are using fingerprint Module and Arduino to take and keep
+attendance data and records.
+Attendance systems are commonly used systems to mark the presence in offices and schools.
+From manually marking the attendance in attendance registers to using high-tech
+applications and biometric systems, these systems have improved significantly. This project has
+a wide application in school, college, business organization, offices where marking of attendance
+is required accurately with time.
+By using the fingerprint sensor, the system will become more secure for the users.
+Biometric student attendance system increases the efficiency of the process of taking student
+2
+attendance. This presents a simple and portable approach to student attendance in the form of an
+Internet of Things (IOT) based system that records the attendance using fingerprint based
+biometric scanner and stores them securely over cloud. This system aims to automate the
+cumbersome process of manually taking and storing student attendance records. It will also
+prevent proxy attendance, thus increasing the reliability of attendance records. The records are
+securely stored and can be reliably retrieved whenever required by the teacher.
+Proper attendance recording and management has become important in today’s world as
+attendance and achievement go hand in hand. Attendance is one of the work ethics valued by
+employers. Most of the educational institutions and government organizations in developing
+countries still use paper based attendance method for maintaining the attendance records. There
+is a need to replace these traditional methods of attendance recording with biometric attendance
+system. The unique nature of fingerprint makes it ideal for use in attendance management
+systems. Besides being secure, Fingerprint based attendance system will also be environment
+friendly. Fingerprint matching is widely used in forensics for a long time. It can also be used in
+applications such as identity management and access control. This review incorporates the
+problems of attendance systems presently in use, working of a typical fingerprint based
+attendance system, study of different systems, their advantages, disadvantages and comparison
+based upon important parameters.
