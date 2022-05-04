@@ -1,0 +1,13 @@
+Working of this fingerprint attendance system project is fairly simple.
+First of all, the user needs to enrol fingerprints of the user with the help of push buttons.
+To do this, user need to press ENROLL key and then LCD asks for entering ID for the fingerprint to save it in memory by ID name. 
+So now user needs to enter ID by using UP/DOWN keys. After selecting ID, user 42
+needs to press OK key (DEL key). Now LCD will ask to place finger over the fingerprint module.
+Now user needs to place his finger over finger print module and then the module takes finger image.
+Now the LCD will say to remove finger from fingerprint module, and again ask to place finger again.
+Now user needs to put his finger again and module takes an image and convert it into templates and stores it by selected ID into the finger print module’s memory.
+Now the user will be registered and he/she can feed attendance by putting their finger over fingerprint module.
+By the same method, all the users will be registered into the system.
+Now if the user wants to remove or delete any of the stored ID or fingerprint, then he/she need to press DEL key. 
+Once delete key is pressed LCD will ask to select ID that need to be deleted. Now user needs to select ID and press OK key (same DEL key).
+Now LCD will let you know that fingerprint has been deleted successfully.
